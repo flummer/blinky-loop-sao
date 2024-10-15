@@ -1,6 +1,6 @@
 # Blinky Loop SAO
 
-![Blinky Loop SAO](https://github.com/flummer/blinky-lopp-sao/raw/main/IMAGES/DSC_0760.jpg "Blinky Loop SAO")
+![Blinky Loop SAO](https://github.com/flummer/blinky-loop-sao/raw/main/IMAGES/DSC_0760.jpg "Blinky Loop SAO")
 
 Further documentation on the [hackaday.io project page for the Blinky Loop SAO](https://hackaday.io/project/198163-blinky-loop-sao)
 
